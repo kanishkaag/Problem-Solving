@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/kanishkaag/Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0713-subarray-product-less-than-k](https://github.com/kanishkaag/Problem-Solving/tree/master/0713-subarray-product-less-than-k) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/kanishkaag/Problem-Solving/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
@@ -23,9 +24,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/kanishkaag/Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0205-isomorphic-strings](https://github.com/kanishkaag/Problem-Solving/tree/master/0205-isomorphic-strings) |
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/kanishkaag/Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0205-isomorphic-strings](https://github.com/kanishkaag/Problem-Solving/tree/master/0205-isomorphic-strings) |
 <!---LeetCode Topics End-->
