@@ -10,7 +10,7 @@ public:
             }
             mpp[nums[i]] = i;
         }
-
+        return {};
 
 
         // int sum;
@@ -23,6 +23,6 @@ public:
         //     }
         // }
         // return {}; // Return an empty vector if no solution is found (for safety)
-        return {};
+        
     }
 };
