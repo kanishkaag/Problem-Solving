@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kanishkaag/Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/kanishkaag/Problem-Solving/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kanishkaag/Problem-Solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/kanishkaag/Problem-Solving/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/kanishkaag/Problem-Solving/tree/master/0205-isomorphic-strings) |
@@ -73,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/kanishkaag/Problem-Solving/tree/master/0088-merge-sorted-array) |
 | [0455-assign-cookies](https://github.com/kanishkaag/Problem-Solving/tree/master/0455-assign-cookies) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/kanishkaag/Problem-Solving/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
