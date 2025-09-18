@@ -1,36 +1,33 @@
 class Solution {
 public:
     void merge(vector<int>& nums1, int m, vector<int>& nums2, int n) {
-        int nums3[m+n];
-        int index = 0;
-        int left = 0;
-        int right = 0;
-        while(left< m && right< n){
-            if(nums1[left] <= nums2[right]){
-                nums3[index] = nums1[left];
-                left++;
-                index++;
+        //starting from backside of arrays
+        int i = m-1;
+        int j = n-1;
+        int index = m+n-1;
+        while(i>=0 && j>=0){
+            if(nums1[i]> nums2[j]){
+                nums1[index] = nums1[i];
+                i--;
+                index--;
             }
             else{
-                nums3[index] = nums2[right];
-                right++;
-                index++;
-
+                nums1[index] = nums2[j];
+                j--;
+                index--;
             }
-        }
-        while(left<m){
-            nums3[index] =nums1[left];
-            left++;
-            index++;
-        }
-          while(right<n){
-            nums3[index] =nums2[right];
-            right++;
-            index++;
-        }
 
-        for(int i = 0;i<m+n;i++){
-            nums1[i] = nums3[i];
+        }
+        while(i>=0){
+            nums1[index] = nums1[i];
+            i--;
+            index--;
+
+        }
+        while(j>=0){
+            nums1[index] = nums2[j];
+            j--;
+            index--;
         }
     }
 };
