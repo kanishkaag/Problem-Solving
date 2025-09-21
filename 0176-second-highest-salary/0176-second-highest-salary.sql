@@ -11,3 +11,4 @@ SELECT MAX(salary) AS SecondHighestSalary FROM Employee WHERE salary <(SELECT MA
 
 
 -- A scalar subquery returning no rows → returns NULL in SQL.
+-- MAX() on empty set → returns NULL
