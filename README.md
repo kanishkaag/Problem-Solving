@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/kanishkaag/Problem-Solving/tree/master/0151-reverse-words-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/kanishkaag/Problem-Solving/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/kanishkaag/Problem-Solving/tree/master/0205-isomorphic-strings) |
+| [0443-string-compression](https://github.com/kanishkaag/Problem-Solving/tree/master/0443-string-compression) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/kanishkaag/Problem-Solving/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/kanishkaag/Problem-Solving/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/kanishkaag/Problem-Solving/tree/master/0151-reverse-words-in-a-string) |
+| [0443-string-compression](https://github.com/kanishkaag/Problem-Solving/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/kanishkaag/Problem-Solving/tree/master/0455-assign-cookies) |
 ## String Matching
 |  |
