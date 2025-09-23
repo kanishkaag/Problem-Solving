@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/kanishkaag/Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/kanishkaag/Problem-Solving/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/kanishkaag/Problem-Solving/tree/master/0205-isomorphic-strings) |
+| [0387-first-unique-character-in-a-string](https://github.com/kanishkaag/Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0940-fruit-into-baskets](https://github.com/kanishkaag/Problem-Solving/tree/master/0940-fruit-into-baskets) |
 ## String
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/kanishkaag/Problem-Solving/tree/master/0151-reverse-words-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/kanishkaag/Problem-Solving/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/kanishkaag/Problem-Solving/tree/master/0205-isomorphic-strings) |
+| [0387-first-unique-character-in-a-string](https://github.com/kanishkaag/Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/kanishkaag/Problem-Solving/tree/master/0443-string-compression) |
 ## Bit Manipulation
 |  |
@@ -94,4 +96,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1153-product-sales-analysis-i](https://github.com/kanishkaag/Problem-Solving/tree/master/1153-product-sales-analysis-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/kanishkaag/Problem-Solving/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1908-recyclable-and-low-fat-products](https://github.com/kanishkaag/Problem-Solving/tree/master/1908-recyclable-and-low-fat-products) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/kanishkaag/Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/kanishkaag/Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
