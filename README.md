@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/kanishkaag/Problem-Solving/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/kanishkaag/Problem-Solving/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/kanishkaag/Problem-Solving/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/kanishkaag/Problem-Solving/tree/master/0455-assign-cookies) |
 | [0713-subarray-product-less-than-k](https://github.com/kanishkaag/Problem-Solving/tree/master/0713-subarray-product-less-than-k) |
 | [0940-fruit-into-baskets](https://github.com/kanishkaag/Problem-Solving/tree/master/0940-fruit-into-baskets) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/kanishkaag/Problem-Solving/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/kanishkaag/Problem-Solving/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/kanishkaag/Problem-Solving/tree/master/0151-reverse-words-in-a-string) |
+| [0283-move-zeroes](https://github.com/kanishkaag/Problem-Solving/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/kanishkaag/Problem-Solving/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/kanishkaag/Problem-Solving/tree/master/0455-assign-cookies) |
 ## String Matching
