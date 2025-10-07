@@ -7,7 +7,6 @@ public:
             int nextGreater = -1;
             for(int j = 0; j < nums2.size(); j++){
                 if(nums2[j] == val){
-
                     for (int k = j + 1; k < nums2.size(); k++) {
                         if (nums2[k] > val) {
                             nextGreater = nums2[k];
