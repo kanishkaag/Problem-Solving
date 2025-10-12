@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/kanishkaag/Problem-Solving/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/kanishkaag/Problem-Solving/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kanishkaag/Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/kanishkaag/Problem-Solving/tree/master/0152-maximum-product-subarray) |
 | [0283-move-zeroes](https://github.com/kanishkaag/Problem-Solving/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/kanishkaag/Problem-Solving/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/kanishkaag/Problem-Solving/tree/master/0455-assign-cookies) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/kanishkaag/Problem-Solving/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kanishkaag/Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/kanishkaag/Problem-Solving/tree/master/0152-maximum-product-subarray) |
 ## Linked List
 |  |
 | ------- |
