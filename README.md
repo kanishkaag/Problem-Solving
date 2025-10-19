@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/kanishkaag/Problem-Solving/tree/master/0713-subarray-product-less-than-k) |
 | [0940-fruit-into-baskets](https://github.com/kanishkaag/Problem-Solving/tree/master/0940-fruit-into-baskets) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/kanishkaag/Problem-Solving/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/kanishkaag/Problem-Solving/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/kanishkaag/Problem-Solving/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/kanishkaag/Problem-Solving/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/kanishkaag/Problem-Solving/tree/master/0908-middle-of-the-linked-list) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/kanishkaag/Problem-Solving/tree/master/2271-rearrange-array-elements-by-sign) |
 ## String Matching
 |  |
 | ------- |
@@ -168,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/kanishkaag/Problem-Solving/tree/master/0009-palindrome-number) |
+## Simulation
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/kanishkaag/Problem-Solving/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
