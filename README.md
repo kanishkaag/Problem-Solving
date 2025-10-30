@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kanishkaag/Problem-Solving/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/kanishkaag/Problem-Solving/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/kanishkaag/Problem-Solving/tree/master/0496-next-greater-element-i) |
 ## Database
 |  |
@@ -186,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/kanishkaag/Problem-Solving/tree/master/2271-rearrange-array-elements-by-sign) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/kanishkaag/Problem-Solving/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
