@@ -6,18 +6,21 @@ public:
     queue<int> q1;
     queue<int> q2;
     void push(int x) { //O(n)
+        //Copying the element from q1 to q2
         while(!q1.empty()){
             q2.push(q1.front());
             q1.pop();
         }
+        //push the new data in q1
         q1.push(x);
+        //Again copy back the element from q2 to q1 
         while(!q2.empty()){
             q1.push(q2.front());
             q2.pop();
         }
     }
     
-    int pop() {
+    int pop() {//O(1)
        int ans = q1.front();
        q1.pop();
        return ans;
