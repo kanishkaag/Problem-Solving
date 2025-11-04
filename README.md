@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/kanishkaag/Problem-Solving/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/kanishkaag/Problem-Solving/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/kanishkaag/Problem-Solving/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2227-sum-of-subarray-ranges](https://github.com/kanishkaag/Problem-Solving/tree/master/2227-sum-of-subarray-ranges) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/kanishkaag/Problem-Solving/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/kanishkaag/Problem-Solving/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/kanishkaag/Problem-Solving/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/kanishkaag/Problem-Solving/tree/master/0496-next-greater-element-i) |
+| [2227-sum-of-subarray-ranges](https://github.com/kanishkaag/Problem-Solving/tree/master/2227-sum-of-subarray-ranges) |
 ## Database
 |  |
 | ------- |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/kanishkaag/Problem-Solving/tree/master/0496-next-greater-element-i) |
+| [2227-sum-of-subarray-ranges](https://github.com/kanishkaag/Problem-Solving/tree/master/2227-sum-of-subarray-ranges) |
 ## Divide and Conquer
 |  |
 | ------- |
