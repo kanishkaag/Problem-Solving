@@ -2,8 +2,11 @@ class Solution {
 public:
     vector<int> nextGreaterElement(vector<int>& nums1, vector<int>& nums2) {
         //optimized
+        //using map to find elem in nums2 similar in nums1
+        //storing evry elem of nums2 in map
         unordered_map<int, int> m; //nums2[i], NG
         stack<int> st;
+        //Firstly i am finding next greater for every element in nums2.
         for(int i = nums2.size()-1; i>=0; i--){
             while(st.size() > 0 && st.top() <= nums2[i]){
                 st.pop();
@@ -17,6 +20,7 @@ public:
 
             st.push(nums2[i]);
         }
+
         vector<int> ans;
         for(int i = 0; i < nums1.size(); i++){
             ans.push_back(m[nums1[i]]);
