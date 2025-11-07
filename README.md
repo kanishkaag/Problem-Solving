@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/kanishkaag/Problem-Solving/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/kanishkaag/Problem-Solving/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/kanishkaag/Problem-Solving/tree/master/0713-subarray-product-less-than-k) |
+| [0735-asteroid-collision](https://github.com/kanishkaag/Problem-Solving/tree/master/0735-asteroid-collision) |
 | [0940-fruit-into-baskets](https://github.com/kanishkaag/Problem-Solving/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/kanishkaag/Problem-Solving/tree/master/1046-max-consecutive-ones-iii) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/kanishkaag/Problem-Solving/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/kanishkaag/Problem-Solving/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/kanishkaag/Problem-Solving/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kanishkaag/Problem-Solving/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/kanishkaag/Problem-Solving/tree/master/0735-asteroid-collision) |
 | [2227-sum-of-subarray-ranges](https://github.com/kanishkaag/Problem-Solving/tree/master/2227-sum-of-subarray-ranges) |
 ## Database
 |  |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/kanishkaag/Problem-Solving/tree/master/0735-asteroid-collision) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/kanishkaag/Problem-Solving/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Design
 |  |
