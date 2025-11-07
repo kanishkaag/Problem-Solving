@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/kanishkaag/Problem-Solving/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/kanishkaag/Problem-Solving/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/kanishkaag/Problem-Solving/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/kanishkaag/Problem-Solving/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/kanishkaag/Problem-Solving/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/kanishkaag/Problem-Solving/tree/master/0713-subarray-product-less-than-k) |
 | [0940-fruit-into-baskets](https://github.com/kanishkaag/Problem-Solving/tree/master/0940-fruit-into-baskets) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/kanishkaag/Problem-Solving/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/kanishkaag/Problem-Solving/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/kanishkaag/Problem-Solving/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/kanishkaag/Problem-Solving/tree/master/0503-next-greater-element-ii) |
 | [2227-sum-of-subarray-ranges](https://github.com/kanishkaag/Problem-Solving/tree/master/2227-sum-of-subarray-ranges) |
 ## Database
 |  |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/kanishkaag/Problem-Solving/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/kanishkaag/Problem-Solving/tree/master/0503-next-greater-element-ii) |
 | [2227-sum-of-subarray-ranges](https://github.com/kanishkaag/Problem-Solving/tree/master/2227-sum-of-subarray-ranges) |
 ## Divide and Conquer
 |  |
