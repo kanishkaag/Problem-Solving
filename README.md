@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kanishkaag/Problem-Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kanishkaag/Problem-Solving/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/kanishkaag/Problem-Solving/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/kanishkaag/Problem-Solving/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/kanishkaag/Problem-Solving/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/kanishkaag/Problem-Solving/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/kanishkaag/Problem-Solving/tree/master/0088-merge-sorted-array) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/kanishkaag/Problem-Solving/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/kanishkaag/Problem-Solving/tree/master/0162-find-peak-element) |
 | [0287-find-the-duplicate-number](https://github.com/kanishkaag/Problem-Solving/tree/master/0287-find-the-duplicate-number) |
 | [0713-subarray-product-less-than-k](https://github.com/kanishkaag/Problem-Solving/tree/master/0713-subarray-product-less-than-k) |
