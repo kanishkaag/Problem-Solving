@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/kanishkaag/Problem-Solving/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/kanishkaag/Problem-Solving/tree/master/0735-asteroid-collision) |
 | [0940-fruit-into-baskets](https://github.com/kanishkaag/Problem-Solving/tree/master/0940-fruit-into-baskets) |
+| [0997-find-the-town-judge](https://github.com/kanishkaag/Problem-Solving/tree/master/0997-find-the-town-judge) |
 | [1046-max-consecutive-ones-iii](https://github.com/kanishkaag/Problem-Solving/tree/master/1046-max-consecutive-ones-iii) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/kanishkaag/Problem-Solving/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/kanishkaag/Problem-Solving/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/kanishkaag/Problem-Solving/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/kanishkaag/Problem-Solving/tree/master/0560-subarray-sum-equals-k) |
 | [0940-fruit-into-baskets](https://github.com/kanishkaag/Problem-Solving/tree/master/0940-fruit-into-baskets) |
+| [0997-find-the-town-judge](https://github.com/kanishkaag/Problem-Solving/tree/master/0997-find-the-town-judge) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/kanishkaag/Problem-Solving/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## String
 |  |
@@ -216,4 +218,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/kanishkaag/Problem-Solving/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/kanishkaag/Problem-Solving/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/kanishkaag/Problem-Solving/tree/master/0232-implement-queue-using-stacks) |
+## Graph
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/kanishkaag/Problem-Solving/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
