@@ -222,20 +222,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/kanishkaag/Problem-Solving/tree/master/0547-number-of-provinces) |
 | [0997-find-the-town-judge](https://github.com/kanishkaag/Problem-Solving/tree/master/0997-find-the-town-judge) |
 | [1971-find-if-path-exists-in-graph](https://github.com/kanishkaag/Problem-Solving/tree/master/1971-find-if-path-exists-in-graph) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/kanishkaag/Problem-Solving/tree/master/0145-binary-tree-postorder-traversal) |
+| [0547-number-of-provinces](https://github.com/kanishkaag/Problem-Solving/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/kanishkaag/Problem-Solving/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/kanishkaag/Problem-Solving/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/kanishkaag/Problem-Solving/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/kanishkaag/Problem-Solving/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/kanishkaag/Problem-Solving/tree/master/1971-find-if-path-exists-in-graph) |
 ## Tree
 |  |
