@@ -11,7 +11,6 @@
  */
 class Solution {
 public:
-
     void inorder(TreeNode* x,vector<int> &ans){
         if(x == nullptr){
             return;
