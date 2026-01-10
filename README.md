@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/kanishkaag/Problem-Solving/tree/master/0997-find-the-town-judge) |
 | [1046-max-consecutive-ones-iii](https://github.com/kanishkaag/Problem-Solving/tree/master/1046-max-consecutive-ones-iii) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/kanishkaag/Problem-Solving/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kanishkaag/Problem-Solving/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/kanishkaag/Problem-Solving/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2227-sum-of-subarray-ranges](https://github.com/kanishkaag/Problem-Solving/tree/master/2227-sum-of-subarray-ranges) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/kanishkaag/Problem-Solving/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/kanishkaag/Problem-Solving/tree/master/0713-subarray-product-less-than-k) |
 | [0940-fruit-into-baskets](https://github.com/kanishkaag/Problem-Solving/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/kanishkaag/Problem-Solving/tree/master/1046-max-consecutive-ones-iii) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kanishkaag/Problem-Solving/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/kanishkaag/Problem-Solving/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
 |  |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/kanishkaag/Problem-Solving/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/kanishkaag/Problem-Solving/tree/master/0713-subarray-product-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/kanishkaag/Problem-Solving/tree/master/1046-max-consecutive-ones-iii) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kanishkaag/Problem-Solving/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/kanishkaag/Problem-Solving/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Hash Table
 |  |
