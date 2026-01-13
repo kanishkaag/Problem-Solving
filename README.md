@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kanishkaag/Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/kanishkaag/Problem-Solving/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/kanishkaag/Problem-Solving/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/kanishkaag/Problem-Solving/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/kanishkaag/Problem-Solving/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/kanishkaag/Problem-Solving/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/kanishkaag/Problem-Solving/tree/master/0455-assign-cookies) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/kanishkaag/Problem-Solving/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/kanishkaag/Problem-Solving/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/kanishkaag/Problem-Solving/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/kanishkaag/Problem-Solving/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/kanishkaag/Problem-Solving/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/kanishkaag/Problem-Solving/tree/master/0713-subarray-product-less-than-k) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/kanishkaag/Problem-Solving/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/kanishkaag/Problem-Solving/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/kanishkaag/Problem-Solving/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/kanishkaag/Problem-Solving/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/kanishkaag/Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/kanishkaag/Problem-Solving/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/kanishkaag/Problem-Solving/tree/master/0496-next-greater-element-i) |
@@ -97,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/kanishkaag/Problem-Solving/tree/master/0187-repeated-dna-sequences) |
+| [0268-missing-number](https://github.com/kanishkaag/Problem-Solving/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/kanishkaag/Problem-Solving/tree/master/0287-find-the-duplicate-number) |
 ## Rolling Hash
 |  |
@@ -139,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/kanishkaag/Problem-Solving/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/kanishkaag/Problem-Solving/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/kanishkaag/Problem-Solving/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/kanishkaag/Problem-Solving/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/kanishkaag/Problem-Solving/tree/master/0455-assign-cookies) |
 ## Stack
 |  |
@@ -216,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/kanishkaag/Problem-Solving/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/kanishkaag/Problem-Solving/tree/master/0009-palindrome-number) |
+| [0268-missing-number](https://github.com/kanishkaag/Problem-Solving/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
