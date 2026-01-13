@@ -1,24 +1,23 @@
 class Solution {
 public:
     int missingNumber(vector<int>& nums) {
-        // vector<int> rangearr;
-        // int missing = 0;
-        sort(nums.begin(),nums.end());
-        int n = nums.size(); //range - [0,n]
-        // for(int i = 0;i<=n;i++){
-        //     rangearr.push_back(i);
-        // }
-        // for(int i = 0;i<=n;i++){
-        //     if(nums[i] != rangearr[i]){
-        //         missing = rangearr[i];
+        // sort(nums.begin(), nums.end());
+        // int n = nums.size(); // range - [0,n]
+        // for (int i = 0; i < n; i++) {
+        //     if (nums[i] != i) {
+        //         return i;
         //     }
         // }
-        for(int i = 0; i<n;i++){
-            if(nums[i] != i){
-                return i;
-          }
-        
+        // return n;
+
+        //range based formula approach
+        int n = nums.size();
+        int total = n*(n + 1) / 2;
+        int sum = 0;
+
+        for (int x : nums) {
+            sum += x;
         }
-        return n;
+        return total - sum;
     }
 };
