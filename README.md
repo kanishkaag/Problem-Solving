@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/kanishkaag/Problem-Solving/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kanishkaag/Problem-Solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/kanishkaag/Problem-Solving/tree/master/0038-count-and-say) |
+| [0067-add-binary](https://github.com/kanishkaag/Problem-Solving/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/kanishkaag/Problem-Solving/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/kanishkaag/Problem-Solving/tree/master/0151-reverse-words-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/kanishkaag/Problem-Solving/tree/master/0187-repeated-dna-sequences) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/kanishkaag/Problem-Solving/tree/master/0067-add-binary) |
 | [0187-repeated-dna-sequences](https://github.com/kanishkaag/Problem-Solving/tree/master/0187-repeated-dna-sequences) |
 | [0268-missing-number](https://github.com/kanishkaag/Problem-Solving/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/kanishkaag/Problem-Solving/tree/master/0287-find-the-duplicate-number) |
@@ -223,10 +225,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/kanishkaag/Problem-Solving/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/kanishkaag/Problem-Solving/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/kanishkaag/Problem-Solving/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/kanishkaag/Problem-Solving/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/kanishkaag/Problem-Solving/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/kanishkaag/Problem-Solving/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/kanishkaag/Problem-Solving/tree/master/0735-asteroid-collision) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/kanishkaag/Problem-Solving/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Design
