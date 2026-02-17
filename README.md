@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/kanishkaag/Problem-Solving/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/kanishkaag/Problem-Solving/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/kanishkaag/Problem-Solving/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/kanishkaag/Problem-Solving/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/kanishkaag/Problem-Solving/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/kanishkaag/Problem-Solving/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/kanishkaag/Problem-Solving/tree/master/0287-find-the-duplicate-number) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/kanishkaag/Problem-Solving/tree/master/0141-linked-list-cycle) |
 | [0187-repeated-dna-sequences](https://github.com/kanishkaag/Problem-Solving/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/kanishkaag/Problem-Solving/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/kanishkaag/Problem-Solving/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kanishkaag/Problem-Solving/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kanishkaag/Problem-Solving/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/kanishkaag/Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/kanishkaag/Problem-Solving/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/kanishkaag/Problem-Solving/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/kanishkaag/Problem-Solving/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/kanishkaag/Problem-Solving/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kanishkaag/Problem-Solving/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kanishkaag/Problem-Solving/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/kanishkaag/Problem-Solving/tree/master/0455-assign-cookies) |
